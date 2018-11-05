@@ -1,4 +1,4 @@
-# BeetleTracker
+# BeetleTracker 3 Days Sprint
 ### BECODE.ORG - 2018
 
 ### Team : [Lionel Bidegaray](https://github.com/Lyioh), [Marco Tampieri](https://github.com/MarcoTampieri),[François Héliodore](https://github.com/louis878), [Dragan Markovic](https://github.com/vanmarkic),
@@ -15,18 +15,22 @@ This exercise was about client communication and planning. We had to learn to us
 - Communicate the endresult with the client
 - Add a quality readme
 
-### [Exercise README FILE](https://github.com/becodeorg/BXL-Swartz-2.6/blob/master/Assessment/UML.md)
-
 
 
 ## Content
 
-1. A UML file showing the flow of the design.
-2. A wireframe of the proposed design
-3. Mockup files of the styled wireframes along with png images of said mockups.
+1. External Files
+2. A UML file showing the flow of the design.
+3. A wireframe of the proposed design
+4. Mockup files of the styled wireframes along with png images of said mockups.
+
+## 1. External Files
+### [SlideShow Presentation](https://docs.google.com/presentation/d/16OibSJgKMECWmYDJ8RGuO6AAwCSeNsk1jsefAZ1cvhc/edit?usp=sharing)
+### [Full Figma Prototype](https://www.figma.com/file/GGHfQ3oN7Q7y38opQXbHKDs2/BEETLE-TRACKER-MAIN-FINAL-FINAL?node-id=3%3A14)
+### [Exercise README FILE](https://github.com/becodeorg/BXL-Swartz-2.6/blob/master/Assessment/UML.md)
 
 
-## 1. UML
+## 2. UML
 
 ### Admin FLow
 ![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/adminflow.png)
@@ -34,10 +38,20 @@ This exercise was about client communication and planning. We had to learn to us
 ### User Flow
 ![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/userflow.png)
 
+
 ## 3.Wireframe
 
+### Landing Page
+![](https://raw.githubusercontent.com/vanmarkic/BeetleTracker/master/img/wire/Landing%20Page.png)
 
-## 3.Mockup
+### Debugging Tasks Panel
+![](https://raw.githubusercontent.com/vanmarkic/BeetleTracker/master/img/wire/Main%20Team%20Interface.png)
+
+### Team Management
+![](https://raw.githubusercontent.com/vanmarkic/BeetleTracker/master/img/wire/User%20Management.png)
+
+
+## 4.Mockup
 
 ### Landing Page
 ![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/1.png)
@@ -61,7 +75,6 @@ This exercise was about client communication and planning. We had to learn to us
 
 ## Status
 ```
-Start 11/10/2018 
-Status : Just Started
-
+Start 29/10/2018 
+Finish : 31/10/2018
 ```
