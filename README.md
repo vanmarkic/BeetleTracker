@@ -26,18 +26,34 @@ This exercise was about client communication and planning. We had to learn to us
 3. Mockup files of the styled wireframes along with png images of said mockups.
 
 
+## 1. UML
+
+### Admin FLow
+![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/adminflow.png)
+
+### User Flow
+![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/userflow.png)
+
+## 3.Wireframe
 
 
+## 3.Mockup
 
-## Challenges
-* Provide a useful tool that can also change mindset.
-* Raise awareness about renewable energy in general
-* Raise awareness about optimal moment for plugging in relation with amount of renewable energy present on the network.
-* Help flatten peaks and downs related to the unpredictability of renewable energy production by suggesting best plugging time to the enduser.
+### Landing Page
+![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/1.png)
+![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/2.png)
+![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/3.png)
 
-## Further improvements
-* link rnwbl nrg production data with company consumption data.
-* auto detect charging for smartphone with our app installed on it, reward in case of green behavior.
+### Team List
+![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/6.png)
+
+### Debugging Tasks Panel
+![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/7.png)
+
+### Team Management
+![](https://github.com/vanmarkic/BeetleTracker/blob/master/img/8.png)
+
+
 
 ## Feedback
 * 
